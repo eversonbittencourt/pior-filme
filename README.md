@@ -25,6 +25,6 @@ O projeto pode ser executado como uma aplicação Laravel padrão, não possuind
 
 ### Teste Unitários
 
-Para executar os testes unitário necessáio executar o comando ```./vendor/bin/phpunit tests/Unit/TestNews.php```
+Para executar os testes unitário necessáio executar o comando ```./vendor/bin/phpunit tests/Unit/TestProducers.php```
 
 

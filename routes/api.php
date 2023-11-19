@@ -14,7 +14,7 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('producers/limit-interval', 'ProducersController@limitInterval');
+Route::get('producers/limit-interval', 'ProducersController@limitInterval')->name('limitIntervals');
 
 Route::apiResource('producers', 'ProducersController');
 
